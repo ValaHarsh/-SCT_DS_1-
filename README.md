@@ -43,7 +43,7 @@ The dataset used for this analysis contains population data for 2023 of various 
 - **Country**: The name of the country.
 - **Population**: The population of the country in 2023.
 
-Data source: [Your source or link here if available]
+Data source: [https://data.worldbank.org/indicator/SP.POP.TOTL]
 
 ---
 
@@ -65,3 +65,29 @@ To run this project on your local machine, follow these steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/SCT_DS_1.git
+
+---
+
+### Usage
+
+Once you have the project set up, you can run the Python script to generate the visualizations. Modify the dataset or script as needed for more customized analysis.
+
+---
+
+### Contributing
+
+Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+
+---
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+--- 
+
+### Contact
+
+Author: Harsh
+Email: [valaharsh210@gmail.com]
+

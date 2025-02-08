@@ -52,6 +52,7 @@ Data source: [https://data.worldbank.org/indicator/SP.POP.TOTL]
 The project contains several visualizations to aid in the exploration of population trends:
 
 1. **Top 10 Most Populated Countries** (Bar Chart)
+![Image](https://github.com/user-attachments/assets/e2416572-499f-4f4a-83a1-ed546f389ee9)
 2. **Top 10 Least Populated Countries** (Bar Chart)
 3. **Population Distribution** (Histogram)
 4. **Log-scaled Population Distribution** (Histogram)

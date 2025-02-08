@@ -54,8 +54,11 @@ The project contains several visualizations to aid in the exploration of populat
 1. **Top 10 Most Populated Countries** (Bar Chart)
 ![Image](https://github.com/user-attachments/assets/e2416572-499f-4f4a-83a1-ed546f389ee9)
 2. **Top 10 Least Populated Countries** (Bar Chart)
+![Image](https://github.com/user-attachments/assets/1be3b190-ab7e-4ac9-8717-0ba3be129f95)
 3. **Population Distribution** (Histogram)
-4. **Log-scaled Population Distribution** (Histogram)
+![Image](https://github.com/user-attachments/assets/3068651d-52cf-40f7-8f69-dcb3f17c3e0c)
+5. **Log-scaled Population Distribution** (Histogram)
+![Image](https://github.com/user-attachments/assets/cdd03a4e-421d-4a8c-be0a-b364036950c8)
 
 ---
 
